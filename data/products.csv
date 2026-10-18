@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Laptop,Electronics,52000,39000
+2,Wireless Mouse,Accessories,900,420
+3,Keyboard,Accessories,1800,900
+4,Monitor,Electronics,14500,10500
+5,Headphones,Electronics,3200,1900
+6,Office Chair,Furniture,7800,5100
+7,Desk Lamp,Furniture,1400,650
+8,USB-C Hub,Accessories,2600,1450
+9,Webcam,Electronics,4100,2600
+10,Notebook Pack,Stationery,350,140
+11,Printer,Electronics,12500,8900
+12,Backpack,Accessories,2200,1200
